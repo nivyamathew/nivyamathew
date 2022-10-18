@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img height="180" alt="github streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=nivyamathew">
 <!--
 **nivyamathew/nivyamathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
